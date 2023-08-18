@@ -1,0 +1,22 @@
+¿Cuántas clases tiene el proyecto?
+R// 3 clase (Animal, Familia, Zoologico)
+- ¿En cuál clase se define el programa principal
+R// se define en la clase zoologico
+- ¿Cuántos objetos de la clase Animal se crean en la clase
+principal?
+R// se crean 2 objetos mas el hijo
+- ¿Cuántos y cuáles son los atributos de la clase Animal?
+R// tiene 3 atributos nombre, peso, genero, pareja
+- ¿Cuáles atributos de la clase Animal no son primitivos?
+R// los atributos no primitivos son los que estan identificados con el tipo String de envoltura
+- ¿Qué pasa si eliminamos la línea 17 de la clase Zoologico?
+R// el animal 1 no encuentra pareja
+- ¿Cuántos métodos tiene la clase Familia?
+R// tiene 3 metodos
+- ¿Cuántos parámetros tiene el método tenerHijo() de la clase
+Familia?
+R// tiene 1 parametro
+- ¿Cuántos atributos inicializa el constructor de la clase Familia?
+R// en principio inicia 2 parametros, pero toca agrgarle el hijo para que funcione bien, osea que son 3 parametros
+- ¿Qué tipo de retorno tiene el método tenerHijo()?
+R// retorna un vacio Void
